@@ -50,3 +50,7 @@ var checkInclusion = function (s1, s2) {
     }
     return false
 };
+
+let s1 = "ab", s2 = "eidboaoo"
+let res = checkInclusion(s1, s2)
+console.log(res);
