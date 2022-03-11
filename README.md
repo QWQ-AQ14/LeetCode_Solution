@@ -7,3 +7,7 @@
 
 ## 二分搜索
 - 704:[二分查找](https://leetcode-cn.com/problems/binary-search/)
+
+## 二分搜索
+- 21:[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+- 23:[合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
