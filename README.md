@@ -8,6 +8,9 @@
 ## 二分搜索
 - 704:[二分查找](https://leetcode-cn.com/problems/binary-search/)
 
-## 二分搜索
+## 链表
 - 21:[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 - 23:[合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
+- 206:[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+- 92:[反转链表II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
+- 25:[K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
